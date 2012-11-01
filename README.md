@@ -1,3 +1,3 @@
 advanced-java
 =============
-created fro demo purposes
+created for demo purposes
